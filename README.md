@@ -1,4 +1,4 @@
-# UX-Design-for-application--ONLINE-MEDICAL-SERVICES-
+# Medico 365-
 
 Ux_Project based on Online Medic Services:-
 
